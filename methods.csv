@@ -1,0 +1,66 @@
+Module #,Module,Method
+1,Research,1:1 Interview
+1,Research,AEIOU
+1,Research,Closed Card Sorting
+1,Research,Community Appraisal
+1,Research,Competitive Analysis
+1,Research,Conjoint Analysis
+1,Research,Conversation Cafe
+1,Research,Design Ethnography
+1,Research,Focus Group
+1,Research,Open Card Sorting
+1,Research,POEMS
+1,Research,POSTA
+1,Research,Usability Testing
+1,Research,User Observation
+2,Analysis,2x2 Matrix
+2,Analysis,Affinity Diagram
+2,Analysis,Atomize
+2,Analysis,Concept Mapping
+2,Analysis,Context Mapping
+2,Analysis,Customer Journey Mapping
+2,Analysis,Empathy Map
+2,Analysis,How Might We
+2,Analysis,Kano Analysis
+2,Analysis,Mind Mapping
+2,Analysis,Powers of 10
+2,Analysis,Reframing
+2,Analysis,Spectrum Mapping
+2,Analysis,Task Analysis
+2,Analysis,Touchpoint Matrix
+2,Analysis,Why-How Laddering
+3,Ideate,3-12-3 Brainstorming
+3,Ideate,6-3-5 Brainwriting
+3,Ideate,6-Up Sketches
+3,Ideate,Anti-Problem
+3,Ideate,Attribute Listing
+3,Ideate,Biomimicry
+3,Ideate,Borda Count Voting
+3,Ideate,Brainstorming
+3,Ideate,Design Heuristics
+3,Ideate,Design the Box
+3,Ideate,Do-Redo-Undo
+3,Ideate,Forced Analogy
+3,Ideate,Visual Brainstorming
+3,Ideate,Weighted Matrix
+4,Build,Additive Manufacturing
+4,Build,Direct Shell Production Casting
+4,Build,Experience Prototyping
+4,Build,Fused Deposition Modelling
+4,Build,Laminated Object Manufacturing
+4,Build,Laser Cutting
+4,Build,Prototyping
+4,Build,Rapid Prototyping
+4,Build,Service Prototyping
+4,Build,Tangible Prototyping
+4,Build,Water Jet Cutting
+4,Build,Wireframe
+5,Communicate,7Ps Framework
+5,Communicate,Business Model Canvas
+5,Communicate,Composite Characters
+5,Communicate,Design Roadmap
+5,Communicate,Envisionment Video
+5,Communicate,Personas
+5,Communicate,Service Blueprint
+5,Communicate,Storyboard
+5,Communicate,Usability Report
